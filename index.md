@@ -1,4 +1,4 @@
 Constructing Pylon.
 
-[Link to another page](./test_new.html).
+[A test to a new page](./test_new.html).
 

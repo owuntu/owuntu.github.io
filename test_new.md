@@ -1,6 +1,6 @@
-layout: page
-title: "This is a test"
-permalink:/test
+---
+layout: default
+title: "A New Page"
+---
 
-
-Hello
+Hello World
