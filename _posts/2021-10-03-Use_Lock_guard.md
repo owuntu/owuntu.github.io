@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Use std::lock_guard when possible"
-date: 2021-10-03
+date: 2021-10-03 21:09:00 +1100
 tags: C++
 ---
 
