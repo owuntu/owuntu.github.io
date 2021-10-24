@@ -7,7 +7,7 @@ Constructing Pylon.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/owuntu.github.io{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
